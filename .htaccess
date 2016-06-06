@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule    ^([a-zA-Z\-\/\_]*)$  /webroot/index.php?p=$1
